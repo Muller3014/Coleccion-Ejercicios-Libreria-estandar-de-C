@@ -2,7 +2,6 @@
 // Created by gonza on 24/11/2024.
 //
 
-#include <stdio.h>
 #include "Funciones stdio/abrir_archivo.h"
 #include "Funciones stdlib/absoluto.h"
 #include "Funciones stdlib/random.h"
@@ -16,7 +15,8 @@ int main() {
     numeroRandom();
     comparaStrings("Hola", "Mundo");
     longitudCadena("Hola Mundo");
-    abrirArchivo("archivo.txt");
-    escribirYLeerArchivo("file.txt", "Hola, mundo!");
+    abrirArchivo("file.txt");
+    escribirYLeerArchivo("file.txt", "Hi");
+
     return 0;
 }

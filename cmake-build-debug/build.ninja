@@ -85,6 +85,12 @@ build CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_stdio
   OBJECT_DIR = CMakeFiles\Coleccion_Ejercicios_Libreria_estandar_de_C.dir
   OBJECT_FILE_DIR = CMakeFiles\Coleccion_Ejercicios_Libreria_estandar_de_C.dir\Funciones_stdio
 
+build CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_stdlib/random.c.obj: C_COMPILER__Coleccion_Ejercicios_Libreria_estandar_de_C_unscanned_Debug C$:/Users/gonza/Documents/GitHub/Coleccion-Ejercicios-Libreria-estandar-de-C/Funciones$ stdlib/random.c || cmake_object_order_depends_target_Coleccion_Ejercicios_Libreria_estandar_de_C
+  DEP_FILE = CMakeFiles\Coleccion_Ejercicios_Libreria_estandar_de_C.dir\Funciones_stdlib\random.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Coleccion_Ejercicios_Libreria_estandar_de_C.dir
+  OBJECT_FILE_DIR = CMakeFiles\Coleccion_Ejercicios_Libreria_estandar_de_C.dir\Funciones_stdlib
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Coleccion_Ejercicios_Libreria_estandar_de_C
@@ -93,7 +99,7 @@ build CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_stdio
 #############################################
 # Link the executable Coleccion_Ejercicios_Libreria_estandar_de_C.exe
 
-build Coleccion_Ejercicios_Libreria_estandar_de_C.exe: C_EXECUTABLE_LINKER__Coleccion_Ejercicios_Libreria_estandar_de_C_Debug CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/main.c.obj CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_stdlib/absoluto.c.obj CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_string/longitud.c.obj CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_string/comparacion.c.obj CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_stdio/abrir_archivo.c.obj CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_stdio/escribir-leer_archivo.c.obj
+build Coleccion_Ejercicios_Libreria_estandar_de_C.exe: C_EXECUTABLE_LINKER__Coleccion_Ejercicios_Libreria_estandar_de_C_Debug CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/main.c.obj CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_stdlib/absoluto.c.obj CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_string/longitud.c.obj CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_string/comparacion.c.obj CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_stdio/abrir_archivo.c.obj CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_stdio/escribir-leer_archivo.c.obj CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_stdlib/random.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Coleccion_Ejercicios_Libreria_estandar_de_C.dir

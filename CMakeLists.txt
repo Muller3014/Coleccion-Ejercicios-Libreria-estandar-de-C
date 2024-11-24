@@ -9,4 +9,5 @@ add_executable(Coleccion_Ejercicios_Libreria_estandar_de_C
         "Funciones string/longitud.c"
         "Funciones string/comparacion.c"
         "Funciones stdio/abrir_archivo.c"
-        "Funciones stdio/escribir-leer_archivo.c")
+        "Funciones stdio/escribir-leer_archivo.c"
+        "Funciones stdlib/random.c")

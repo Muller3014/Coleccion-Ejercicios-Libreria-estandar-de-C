@@ -6,12 +6,12 @@
 #include <stdio.h>
 
 void abrirArchivo(char nombre_archivo[]) {
-    FILE *archivo = fopen(nombre_archivo, "r");
-
-    if (archivo == NULL) {
-        printf("No se pudo abrir el archivo.\n");
-    } else {
-        printf("Archivo abierto correctamente.\n");
-        fclose(archivo);
+    FILE *file = fopen("file.txt", "r");
+    if (file == NULL) {
+        printf("El archivo no se pudo abrir.\n");
     }
+
+    // Cerrar el archivo al final
+    fclose(file);
+
 }

@@ -11,7 +11,7 @@ void escribirYLeerArchivo (char nombre_archivo[], char texto[]) {
         printf("El archivo no se pudo abrir para escritura.\n");
     }
 
-    fprintf(file, "Hola, mundo!\n");
+    fprintf(file, "%s\n", texto);
 
     // Cerrar el archivo después de escribir
     fclose(file);
@@ -22,10 +22,10 @@ void escribirYLeerArchivo (char nombre_archivo[], char texto[]) {
         printf("El archivo no se pudo abrir para lectura.\n");
     }
 
-    char buffer[50];
+    char buffer[255];
     fscanf(file, "%s", buffer);
 
-    printf("Leído del archivo: %s\n", buffer);
+    printf("Leido del archivo: %s\n", buffer);
 
     // Cerrar el archivo después de leer
     fclose(file);
