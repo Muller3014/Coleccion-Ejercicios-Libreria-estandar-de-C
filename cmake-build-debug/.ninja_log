@@ -1,0 +1,9 @@
+# ninja log v6
+3	75	7541847702736893	CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/main.c.obj	215eb27a2bec405e
+75	162	7541847703455202	Coleccion_Ejercicios_Libreria_estandar_de_C.exe	422a76f9d6fe0540
+3	86	7541863926833188	CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/main.c.obj	215eb27a2bec405e
+12	98	7541863926915433	CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_stdlib/absoluto.c.obj	76d2fa489ead28e0
+21	103	7541863927005704	CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_string/longitud.c.obj	67dab11e78ca7495
+28	113	7541863927076952	CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_string/comparacion.c.obj	1b71218a3e1ac8a1
+38	115	7541863927184262	CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_stdio/abrir_archivo.c.obj	c351bb21f7c4f33b
+49	126	7541863927284234	CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir/Funciones_stdio/escribir-leer_archivo.c.obj	e23accacb22c6b77

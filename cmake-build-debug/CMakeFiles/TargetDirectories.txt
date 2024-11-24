@@ -1,0 +1,3 @@
+C:/Users/gonza/Documents/GitHub/Coleccion-Ejercicios-Libreria-estandar-de-C/cmake-build-debug/CMakeFiles/Coleccion_Ejercicios_Libreria_estandar_de_C.dir
+C:/Users/gonza/Documents/GitHub/Coleccion-Ejercicios-Libreria-estandar-de-C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gonza/Documents/GitHub/Coleccion-Ejercicios-Libreria-estandar-de-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
