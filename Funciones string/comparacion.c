@@ -7,6 +7,9 @@
 #include <string.h>
 
 void comparaStrings(char str1[], char str2[]) {
+
+    printf("============ Libreria string ============\n");
+
     int comparison = strcmp(str1, str2);
 
     if (comparison == 0) {

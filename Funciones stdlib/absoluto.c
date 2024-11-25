@@ -7,7 +7,7 @@
 #include <stdlib.h>
 
 void valorAbsoluto(int num) {
-    // Declarar un número negativo
+    printf("============ Libreria stdlib ============\n");
 
     // Obtener el valor absoluto utilizando abs()
     int abs_num = abs(num);
